@@ -17,7 +17,3 @@ class TweetRepositories:
 
     def clear(self):
         self.tweet_list = []
-
-
-
-
